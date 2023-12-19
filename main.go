@@ -1,4 +1,5 @@
 // main.go
+// go mod init myproject
 package main
 
 import (
