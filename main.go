@@ -1,5 +1,11 @@
+// main.go
 package main
 
+import (
+	"myproject/basics"
+)
+
 func main() {
-	yourpackage.PrintMessage()
+	basics.PrintHello()
+	basics.PrintMessage()
 }
