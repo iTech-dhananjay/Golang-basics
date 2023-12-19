@@ -1,8 +1,8 @@
-package main
+package yourpackage
 
 import "fmt"
 
-func main() {
+func PrintMessage() {
 	var message string
 	message = "Hello, Go!"
 

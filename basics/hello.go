@@ -1,7 +1,7 @@
-package main
+package golang
 
 import "fmt"
 
-func main() {
+func PrintHello() {
 	fmt.Println("Hello, World!")
 }
