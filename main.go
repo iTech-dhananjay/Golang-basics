@@ -9,4 +9,5 @@ import (
 func main() {
 	basics.PrintHello()
 	basics.PrintMessage()
+	basics.PrintObjects()
 }
